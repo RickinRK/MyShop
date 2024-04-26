@@ -1,2 +1,2 @@
 # MyShop
-Projeto de e-commerce digital para projeto do SENAI
+Projeto de e-commerce digital para sprint do SENAI
