@@ -7,6 +7,7 @@ Projeto de e-commerce digital para sprint do SENAI
 - A senha de acesso do dashboard é:
    <br> User: admin@mail.com
    <br> Senha: Password@123
+- Há como adicionar cupons, para adicionar, na parte de pagamento, Utilize: "JOSUECOMFRIO" na compra do moletom e "OSCARBALADEIRO" na compra da caixa de som.
 
 
 
