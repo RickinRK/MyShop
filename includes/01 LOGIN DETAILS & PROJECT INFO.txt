@@ -1,0 +1,11 @@
+
+
+**Nome do BCD: ecom_store**
+
+
+**Painel de admin: /admin_area **
+
+**Login de Admin**
+
+User: admin@mail.com
+Senha: Password@123
