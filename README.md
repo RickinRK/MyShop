@@ -1,5 +1,5 @@
 # MyShop
-Projeto de e-commerce digital para sprint do SENAI
+Projeto de e-commerce digital para sprint do SENAI utilizando PHP, MySQL e MVC
 
 *ANTES DE RODAR:*
 - Configure o DB, disponivel no arquivo ecom_store. O nome do banco deve ser "ecom_store"
