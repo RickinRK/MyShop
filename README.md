@@ -26,7 +26,6 @@ Antes de rodar o projeto, certifique-se de que você tenha o ambiente configurad
 O projeto inclui um dashboard de controle para a loja. Para acessá-lo, insira na barra de endereço: 
 .../admin_area
 
-
 ### Credenciais de Acesso
 
 - **Usuário:** admin@mail.com  
