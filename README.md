@@ -1,6 +1,8 @@
 # MyShop
 
-![MyShop Logo](https://i.ibb.co/BwgPc1x/logomyshop.png)
+<p align="center">
+  <img src="https://i.ibb.co/BwgPc1x/logomyshop.png" alt="Logo MyShop" width="300"/>
+</p>
 
 ## Descrição
 
